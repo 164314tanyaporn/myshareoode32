@@ -1,6 +1,4 @@
-print("โปรแกรมคำนวนพื้นที่ของสามเหลี่ยม")
-h=float(input("Enter hight:"))
-b=float(input("Enter base:"))
-area=0.5*h*b
-print("พื้นที่ของสามเหลี่ยมเท่ากับ",area)
-print("จัดทำโดย นางสาวธันยพร แสงรักษา เลขที่32")
+# myshareoode32
+[mycode](first01.py)
+# my portfolio
+https://canva.link/tjmyt4vluyq14gp
